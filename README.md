@@ -1,4 +1,4 @@
-# ARM OS - Educational Operating System for AArch64
+# MeringueOS - Educational Operating System for AArch64
 
 This is an educational operating system for the ARM AArch64 architecture, designed to run on the QEMU virt platform.
 

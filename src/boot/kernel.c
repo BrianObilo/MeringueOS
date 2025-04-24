@@ -62,7 +62,7 @@ void kernel_main(KERNEL_BOOT_PARAMS *params) {
     // Early initialization - placeholder for UART setup
     // We'll assume kprintf writes to a UART for now
     
-    kprintf("AArch64 Educational OS starting...\n");
+    kprintf("MeringueOS starting...\n");
     kprintf("Kernel loaded at physical address: 0x%llx\n", 
             params ? params->kernel_phys_start : 0);
             

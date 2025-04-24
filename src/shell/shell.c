@@ -330,7 +330,7 @@ void shell_loop() {
     char *argv[MAX_ARGS];
     int argc;
 
-    kprintf("\nEducational ARM OS Shell\n");
+    kprintf("\nMeringueOS Shell\n");
     kprintf("Type 'help' for available commands.\n");
     
     // Initialize command table at runtime
